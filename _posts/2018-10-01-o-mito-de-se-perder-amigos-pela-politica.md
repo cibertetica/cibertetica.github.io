@@ -3,7 +3,7 @@ layout: page
 title:  "O mito de se “perder amigos pela política”: se perde amigos é porque eles são idiotas mesmo; ou porque você é."
 subtitle: ""
 date:   2018-10-01
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 30 de agosto de 2018.*
@@ -26,16 +26,17 @@ A corrupção é enraizada na cultura brasileira e cada um de nós já cometeu s
 
 Algumas leituras interessantes:
 
-[Dicionário Político - Politize!](http://www.politize.com.br/temas/dicionario-politico/)
+* [Dicionário Político - Politize!](http://www.politize.com.br/temas/dicionario-politico/)
 
-[É realmente impossível afetar o outro? Sobre “com fascista não há diálogo” e frases afins](https://medium.com/@marcustelles/%C3%A9-realmente-imposs%C3%ADvel-afetar-o-outro-sobre-com-fascista-n%C3%A3o-h%C3%A1-di%C3%A1logo-e-frases-afins-25f25221df05)
+* [É realmente impossível afetar o outro? Sobre “com fascista não há diálogo” e frases afins](https://medium.com/@marcustelles/%C3%A9-realmente-imposs%C3%ADvel-afetar-o-outro-sobre-com-fascista-n%C3%A3o-h%C3%A1-di%C3%A1logo-e-frases-afins-25f25221df05)
 
-[O que fazer quando sua família e amigos são eleitores do Bolsonaro e você é "esquerdista"?](https://medium.com/neworder/o-que-fazer-quando-sua-familia-e-amigos-sao-eleitores-do-bolsonaro-a224e54c4432)
+* [O que fazer quando sua família e amigos são eleitores do Bolsonaro e você é "esquerdista"?](https://medium.com/neworder/o-que-fazer-quando-sua-familia-e-amigos-sao-eleitores-do-bolsonaro-a224e54c4432)
 
-[Dos riscos de ser condescendente com bolsonaros e bolsonaristas](https://medium.com/@joaoluisjr/dos-riscos-de-ser-condescendente-com-bolsonaros-e-bolsonaristas-7606f3519a64)
+* [Dos riscos de ser condescendente com bolsonaros e bolsonaristas](https://medium.com/@joaoluisjr/dos-riscos-de-ser-condescendente-com-bolsonaros-e-bolsonaristas-7606f3519a64)
 
-[Ontem eu não consegui dormir.](https://medium.com/@chaticiando/ontem-eu-n%C3%A3o-consegui-dormir-2c54b8046b73)
+* [Ontem eu não consegui dormir.](https://medium.com/@chaticiando/ontem-eu-n%C3%A3o-consegui-dormir-2c54b8046b73)
 
-[Você protegeria quem o ataca?](https://medium.com/blog-do-baggio/voc%C3%AA-protegeria-quem-o-ataca-f9c01077107f)
+* [Você protegeria quem o ataca?](https://medium.com/blog-do-baggio/voc%C3%AA-protegeria-quem-o-ataca-f9c01077107f)
 
-[Os 8 motivos pelos quais você não deve votar em Jair Bolsonaro](https://medium.com/neworder/os-8-motivos-pelos-quais-voc%C3%AA-n%C3%A3o-deve-votar-em-jair-bolsonaro-f97c806bebf1)
+* [Os 8 motivos pelos quais você não deve votar em Jair Bolsonaro](https://medium.com/neworder/os-8-motivos-pelos-quais-voc%C3%AA-n%C3%A3o-deve-votar-em-jair-bolsonaro-f97c806bebf1)
+

@@ -3,7 +3,7 @@ layout: page
 title:  "O estigma de ser uma mulher que “gosta de coisas” depois dos 20 anos."
 subtitle: ""
 date:   2018-08-30
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 *Texto originalmente publicado no Medium em 30 de agosto de 2018.*
 
@@ -50,7 +50,7 @@ De todos os artistas de música pop que gosto no momento, sinto que o BTS —�
 
 ### Referências: 
 
-[Why The Stigma Around Fangirls Needs To End](https://medium.com/@fawzulhr/the-word-to-word-definition-of-a-fangirl-provided-by-the-urban-dictionary-states-as-follows-a-f6ef48f90017)
-[The bird flies to God. That God’s name is Abraxas](https://medium.com/@florilegia/the-bird-flies-to-god-that-gods-name-is-abraxas-b914a5e5af9) 
-[O problema não é o K-Pop, é o seu machismo mesmo](https://medium.com/@capoperia/o-problema-n%C3%A3o-%C3%A9-o-k-pop-%C3%A9-o-seu-machismo-mesmo-40a47e68a734)
-[7 K-Pop Concepts That Were Inspired By Famous Books](https://www.soompi.com/article/962709wpp/7-k-pop-concepts-inspired-famous-books)
+* [Why The Stigma Around Fangirls Needs To End](https://medium.com/@fawzulhr/the-word-to-word-definition-of-a-fangirl-provided-by-the-urban-dictionary-states-as-follows-a-f6ef48f90017)
+* [The bird flies to God. That God’s name is Abraxas](https://medium.com/@florilegia/the-bird-flies-to-god-that-gods-name-is-abraxas-b914a5e5af9) 
+* [O problema não é o K-Pop, é o seu machismo mesmo](https://medium.com/@capoperia/o-problema-n%C3%A3o-%C3%A9-o-k-pop-%C3%A9-o-seu-machismo-mesmo-40a47e68a734)
+* [7 K-Pop Concepts That Were Inspired By Famous Books](https://www.soompi.com/article/962709wpp/7-k-pop-concepts-inspired-famous-books)

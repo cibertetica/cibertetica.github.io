@@ -3,7 +3,7 @@ layout: page
 title:  "A vida é mais frágil que vidro."
 date:   2017-12-20
 subtitle: ""
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 20 de dezembro de 2017.*

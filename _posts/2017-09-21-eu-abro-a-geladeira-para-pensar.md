@@ -3,7 +3,7 @@ layout: page
 title: Eu abro a geladeira para pensar.
 date: 2017-09-21
 subtitle: ""
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 21 de setembro de 2017.*
@@ -29,3 +29,4 @@ Eu amo computadores. Não sei bem porquê, mas eles me encantam. Pessoas que dã
 Geralmente não cabe tudo isso. E eu falo muito das coisas que AMO, mas não falo bem sobre QUEM SOU. Isso porque eu acredito em uma frase: “You are what you love, not who loves you” (Você é o que você AMA, e não QUEM ama você). Eu ouvi pela primeira vez em uma música do Fall Out Boy (e com participação de ninguém mais ninguém menos que Elton John) chamada Save Rock and Roll. Na verdade, ela é de um filme de 2002 chamado Adaptação (no original: Adaptation); eles provavelmente fizeram uma referência. Apesar de eu já ter lido muitas interpretações dessa frase como “ter muitas pessoas te amando não faz tanta diferença, mas amar alguém faz”, eu prefiro pensar que é sobre eu me definir em vez de deixar os outros fazerem isso por mim, ou sobre como nossos gostos pessoais e nossas experiências influenciam no jeitinho único de ser de cada um.
 
 Dizem que a primeira impressão é a que fica. Mas nunca somos nós mesmos ao conhecer alguém. A gente sempre finge que é mais legal. A gente quer sorrisos e conversa fiada elogiando tudo o que tu faz e o que tu gosta. A gente quer aquilo que não se consegue sentir consigo mesmo por inúmeras razões. Infelizmente.
+

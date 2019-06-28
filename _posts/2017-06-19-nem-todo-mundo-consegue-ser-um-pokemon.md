@@ -3,7 +3,7 @@ layout: page
 title:  "Nem todo mundo consegue ser um Pokémon."
 subtitle: "Vamos militar, mas só enquanto for conveniente para mim."
 date:   2017-06-19
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 19 de junho de 2017.*
@@ -14,9 +14,9 @@ Pois bem, li “[Katy Perry falou sobre seus casos de apropriação cultural e a
 
 Nesse artigo, que fala sobre uma entrevista dada por Katy ao ativista de direitos civis DeRay McKensson para o podcast [Pod Save the People](https://itunes.apple.com/us/podcast/pod-save-the-people/id1230148653?mt=2), ela comenta sobre os vários casos de apropriação cultural dos quais ela foi acusada ao longo dos anos. Ela declarou que não era informada sobre:
 
-*“Eu nunca entenderei algumas dessas coisas por ser quem eu sou. Mas eu posso me informar, e é isso que eu venho tentando fazer.”*
+> “Eu nunca entenderei algumas dessas coisas por ser quem eu sou. Mas eu posso me informar, e é isso que eu venho tentando fazer.”
 
-*“Às vezes é preciso que alguém diga, por compaixão, por amor: “Ei, é aqui que começa tudo”. E não apenas comentários negativos. Porque às vezes é difícil digerir esses comentários negativos. Seu ego quer apenas se afastar deles.”*
+> “Às vezes é preciso que alguém diga, por compaixão, por amor: “Ei, é aqui que começa tudo”. E não apenas comentários negativos. Porque às vezes é difícil digerir esses comentários negativos. Seu ego quer apenas se afastar deles.”
 
 A entrevista teve reações mistas: muitas pessoas elogiaram Katy por reconhecer seus erros e querer melhorar como ser humano; outros disseram que ela apenas estava falando isso para se autopromover em cima dessa nova preocupação que a atual geração tem em consumir mídia que seja “politicamente correta”, como alguns dizem. Ou simplesmente, consumir mídia que mostre a diversidade de opiniões, experiências de vida e visual que nosso mundo tem, e mostrar que é possível se divertir sem ofender os outros, que é o que eu prefiro dizer.
 
@@ -25,7 +25,7 @@ Alguns dos comentários sobre o tema que me chamaram a atenção foi o fato de a
 <blockquote class="twitter-tweet" data-lang="pt"><p lang="en" dir="ltr">ur telling me katy perry, a 32 y/o media-trained woman, was unaware she was doing anything wrong while profiting off cultural appropriation?</p>&mdash; 𝓁𝒾𝓋 (@visitkingdoms) <a href="https://twitter.com/visitkingdoms/status/873924851744034817?ref_src=twsrc%5Etfw">11 de junho de 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Antes dos 17 anos, eu era bem ignorante em INÚMEROS assuntos. Eu não sabia que era ofensivo se vestir de uma determinada cultura, ou que eu tinha tantos privilégios, mesmo nunca sendo rica. Eu mal sabia dos privilégios que eu **não** tinha! Eu não tinha discernimento para entender que as vezes eu era excluída de determinado acontecimento simplesmente por ser uma mulher, e que a forma que homens me abordavam na rua não era só constrangedora porque eu sempre fui tímida, mas sim porque era desrespeitosa demais comigo como ser humano. Todas as gurias da escola e da minha vizinhança se diziam lisonjeadas quando um cara passava e gritava do carro algo do tipo “gostosa”. Então quando algo parecido acontecia comigo, eu me sentia constrangida, mas minha baixa autoestima — que muito vinha das críticas dessas próprias colegas— ficava me dizendo que isso era bom. *“Pelo menos existe alguém que me acha bonita”*, eu pensava.
+Antes dos 17 anos, eu era bem ignorante em INÚMEROS assuntos. Eu não sabia que era ofensivo se vestir de uma determinada cultura ou que eu tinha tantos privilégios, mesmo nunca sendo rica. Eu mal sabia dos privilégios que eu **não** tinha! Eu não tinha discernimento para entender que as vezes eu era excluída de determinado acontecimento simplesmente por ser uma mulher, e que a forma que homens me abordavam na rua não era só constrangedora porque eu sempre fui tímida, mas sim porque era desrespeitosa demais comigo como ser humano. Todas as gurias da escola e da minha vizinhança se diziam lisonjeadas quando um cara passava e gritava do carro algo do tipo “gostosa”. Então quando algo parecido acontecia comigo, eu me sentia constrangida, mas minha baixa autoestima — que muito vinha das críticas dessas próprias colegas— ficava me dizendo que isso era bom. *“Pelo menos existe alguém que me acha bonita”*, eu pensava.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LegnK8eVeBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,4 +49,3 @@ Ignorância para quem é alfabetizado e tem acesso a internet hoje em dia é pre
 E aí o mundo fica cheio de [insira o nome de um Pokémon na sua primeira fase] quando poderia estar cheio de [insira o nome desse mesmo Pokémon que você pensou aí na sua evolução final].
 
 Porque evoluir é difícil. É incrível, mas é difícil. É difícil se desprender das correntes de pensamentos que você foi ensinado para acreditar que eram certas durante toda uma vida. Machuca o ego. Mas é necessário. E ninguém muda da noite para o dia, por mais que pareça. Tudo acontece gradualmente, e assim como queremos que as pessoas aceitem nossas novas opiniões, temos que fazer um esforço para aceitar as mudanças nos outros. Ou algo assim. Ninguém é apto para dar lição de moral para ninguém mesmo.
-

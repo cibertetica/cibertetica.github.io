@@ -3,7 +3,7 @@ layout: page
 title: "Bracinhos pequenos que tentam abraçar uma galáxia."
 subtitle: ""
 date: 2017-06-07
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 06 de junho de 2017.*

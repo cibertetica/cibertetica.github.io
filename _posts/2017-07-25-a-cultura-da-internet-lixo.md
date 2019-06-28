@@ -3,7 +3,7 @@ layout: page
 title:  "A cultura da internet faz eu me sentir um lixo — mesmo não sendo, não na maior parte do tempo…"
 date: 2017-07-25
 subtitle: "É o moderno “a grama do vizinho sempre parece mais verde e mais bonita."
-categories: ["artigos"]
+categories: ["artigos antigos"]
 ---
 
 *Texto originalmente publicado no Medium em 25 de julho de 2017.*
@@ -18,7 +18,7 @@ Quer dizer, óbvio que não é culpa de uma rede invisível de conexão de compu
 
 Mas é só eu começar a reparar em quantos coraçõezinhos ou estrelinhas eu tenho na postagem tal (que geralmente são poucos, seja uma foto minha, algo que escrevi ou uma imagem que editei) que lá vem aquele pensamento “ninguém se importa comigo mesmo bicho”. Não adianta eu escrever a coisa mais daora do universo, as pessoas não veem.
 
-[Homem branco de meia idade voice] Mas o que faz com que sejamos movidos a curtidas?
+*[Homem branco de meia idade voice]* Mas o que faz com que sejamos movidos a curtidas?
 
 Bom, no meu caso deve ser porque não tenho interação na “vida real”, aí eu venho para a internet me iludir que um ser do outro lado do Brasil ou lá da Austrália vai me achar pica das galáxias (os jovens ainda usam essa gíria?? Mano do céu como eu sou ultrapassada) mas isso não acontece!!!! QUE ABSURDO.
 
